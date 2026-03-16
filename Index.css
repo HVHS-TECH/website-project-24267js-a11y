@@ -1,7 +1,7 @@
 
 body{
 
-    background-color: blanchedalmond;
+    background-color: #FFFFFF;
 }
 
 header{
@@ -11,5 +11,7 @@ header{
 } 
 
 Center{
-  text-align: center;
+  display: Flex;
+  justify-content: center;
+  align-items: center;
 }
