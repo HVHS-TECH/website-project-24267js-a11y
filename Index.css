@@ -1,5 +1,10 @@
 
-.center {
+body{
+
+    background-color: blanchedalmond;
+}
+
+.head {
     Display: Flex;
     justify-content: center;
     align-items: center;
