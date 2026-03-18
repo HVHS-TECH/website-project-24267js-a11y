@@ -10,18 +10,14 @@ header{
     align-items: center;
 } 
 
-Center{
-  display: Flex;
-  justify-content: center;
-  align-items: center;
-}
 
 body{
   margin: 0;
   padding: 0;
 }
 nav{
-  list-style-type: none;
+  display: flex;
+  justify-content: center;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -37,6 +33,6 @@ nav a{
   text-decoration: none;
 }
 nav a:hover {
-  background-color: #C6A15B;
+  background-color: #7A918D;
 }
 
