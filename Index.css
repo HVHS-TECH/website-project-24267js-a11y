@@ -26,10 +26,9 @@ nav{
   padding: 0;
   overflow: hidden;
   background-color: #0b0b0b;
-}
-nav li {
   float: left;
 }
+
 nav li a{
   display: block;
   color: white;
