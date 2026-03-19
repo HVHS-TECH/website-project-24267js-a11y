@@ -38,9 +38,9 @@ nav a:hover {
 
 
 header{
-  border-style: dashed;
+  border-style: solid;
 }
 
-h2{
-  border-style: dashed;
+p{
+  border-style: solid;
 }
