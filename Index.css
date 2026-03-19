@@ -39,8 +39,14 @@ nav a:hover {
 
 header{
   border-style: solid;
+  margin: 30px; 
 }
 
 p{
   border-style: solid;
+}
+
+img{
+  display: block;
+  margin: auto;
 }
