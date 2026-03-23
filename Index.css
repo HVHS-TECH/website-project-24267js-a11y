@@ -59,5 +59,6 @@ img{
   gap: 5px;
 }
 .container div{
-  
+  background-color: none;
+  padding: 10px;
 }
