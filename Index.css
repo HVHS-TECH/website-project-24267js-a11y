@@ -55,5 +55,9 @@ img{
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #FFFFFF;
-  padding: ;
+  padding: 5px;
+  gap: 5px;
+}
+.container div{
+  
 }
