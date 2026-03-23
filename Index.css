@@ -57,3 +57,9 @@ img{
   gap: 5px;
   text-align: center;
 }
+
+center{
+  display: Flex;
+    justify-content: center;
+    align-items: center;
+}
