@@ -25,6 +25,18 @@ nav a:hover {
     background-color: #7a918d
 }
 
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    border-style: solid;
+    margin: 30px;
+}
+
+
 p{
   text-indent: 10px;
 }
