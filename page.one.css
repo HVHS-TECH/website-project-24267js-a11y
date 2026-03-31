@@ -36,6 +36,12 @@ header{
     margin: 30px;
 }
 
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 p{
   text-indent: 10px;
