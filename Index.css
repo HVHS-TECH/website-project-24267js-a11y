@@ -93,12 +93,6 @@ h2{
 }
 
 
-.meow{
-  img{
-  border-radius: 50%;
-}
-}
-
 .container2{
   display: grid;
   grid-template-columns: auto auto auto;
