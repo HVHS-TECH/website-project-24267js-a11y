@@ -91,3 +91,10 @@ h2{
   margin: 40px;
   padding: 70px;
 }
+
+
+.meow{
+  img{
+  border-radius: 50%;
+}
+}
