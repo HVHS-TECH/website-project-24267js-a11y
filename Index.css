@@ -97,8 +97,8 @@ h2{
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #FFFFFF;
-  padding: 40px;
-  gap: 40px;
+  padding: 90px;
+  gap: 50px;
   text-align: center;
   img{
     border-radius: 50%;
