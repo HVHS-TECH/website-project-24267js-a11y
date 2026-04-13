@@ -97,10 +97,19 @@ h2{
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #FFFFFF;
-  padding: 5px;
-  gap: 5px;
+  padding: 30px;
+  gap: 30px;
   text-align: center;
   img{
     border-radius: 50%;
   }
+}
+
+.container3{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #FFFFFF;
+  padding: 10px;
+  gap: 10px;
+  text-align: center;
 }
