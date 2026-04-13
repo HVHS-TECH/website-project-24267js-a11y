@@ -96,5 +96,7 @@ h2{
 .meow{
   img{
   border-radius: 50%;
+  display: block;
+  margin: auto;
 }
 }
