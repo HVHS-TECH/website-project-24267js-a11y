@@ -94,11 +94,14 @@ h2{
 
 
 .container2{
-  display: grid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   grid-template-columns: auto auto auto;
   background-color: #FFFFFF;
   padding: 50px;
-  gap: 50px;
+  gap: 10px;
+  height: 100vh;
   text-align: center;
   img{
     border-radius: 50%;
@@ -106,10 +109,11 @@ h2{
 }
 
 .container3{
-  display: grid;
+  display: flex; 
+  justify-content: center;
   grid-template-columns: auto auto auto;
   background-color: #FFFFFF;
   padding: 30px;
-  gap: 30px;
+  gap: 400px;
   text-align: center;
 }
